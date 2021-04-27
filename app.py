@@ -1,11 +1,11 @@
 import streamlit as st
-import pandas as pd
-import numpy as np
+# import pandas as pd
+# import numpy as np
 import streamlit.components.v1 as components
 
 # x= st.slider('x', max_value=1000)
 # st.write(x, 'squared is', x*x)
-df = pd.read_excel('Biker_Utilization_Mar2021_new.xlsx')
+# df = pd.read_excel('Biker_Utilization_Mar2021_new.xlsx')
 # st.header('Welcome Home')
 # st.write(df)
 # cols = df.columns
